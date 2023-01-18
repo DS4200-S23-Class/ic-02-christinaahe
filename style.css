@@ -1,0 +1,24 @@
+/* Styling foes in this file */
+
+body{
+    font-family: "Arial";
+}
+
+/* any class "centered" will have this style*/
+.centered {
+    text-align: center;
+}
+
+.container {
+    border-style: solid;
+}
+
+#p1 {
+    color: darkgreen;
+}
+
+#rectangle {
+    width: "400";
+    height: "200";
+    style: "fill:rgb(0,70,15);stroke-width:5;stroke:rgb(180,200,180)";
+}
